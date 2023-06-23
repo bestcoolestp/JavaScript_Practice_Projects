@@ -6,3 +6,5 @@
 3. Image Search
 ![Screenshot 2023-06-22 163122](https://github.com/bestcoolestp/JavaScript_Practice_Projects/assets/108534975/674aac05-1ecc-4b91-b403-017d996c65d3)
 ![Screenshot 2023-06-22 163142](https://github.com/bestcoolestp/JavaScript_Practice_Projects/assets/108534975/87f5a46e-b241-4a61-a982-38c51982d29e)
+4. Random Recipe App
+![Screenshot 2023-06-23 163032](https://github.com/bestcoolestp/JavaScript_Practice_Projects/assets/108534975/203e003a-7f6c-46c0-8ecb-4821704ae1cf)
