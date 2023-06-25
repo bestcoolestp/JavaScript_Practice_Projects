@@ -10,3 +10,5 @@
 ![Screenshot 2023-06-23 163032](https://github.com/bestcoolestp/JavaScript_Practice_Projects/assets/108534975/203e003a-7f6c-46c0-8ecb-4821704ae1cf)
 5. Rock Paper Scissors
 ![Screenshot 2023-06-24 102200](https://github.com/bestcoolestp/JavaScript_Practice_Projects/assets/108534975/b92ead3e-6df5-4201-9e6d-afdb5938f344)
+6. QR Code Generator
+![Screenshot 2023-06-25 151729](https://github.com/bestcoolestp/JavaScript_Practice_Projects/assets/108534975/085aa58a-30f3-409c-8676-fa3667266953)
