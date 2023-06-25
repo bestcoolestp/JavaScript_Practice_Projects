@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: poppins;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url("https://plus.unsplash.com/premium_photo-1682339496351-7e79146d7c48?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1035&q=80");
+}
+
+.container {
+    height: 260px;
+    background: rgb(255, 255, 202);
+    max-width: 410px;
+    border-radius: 7px;
+    padding: 16px 25px;
+    transition: height 0.3s ease;
+}
+
+.container.active {
+    height: 530px;
+}
+
+header h1 {
+    font-size: 21px;
+    font-weight: 600;
+}
+header p {
+    color: #474747;
+    font-size: 16px;
+    margin-top: 5px;
+}
+.container .form {
+    margin: 20px 0 25px;
+}
+.form :where(input, button) {
+    width: 100%;
+    height: 55px;
+    border-radius: 5px;
+    padding: 0 15px;
+    border: none;
+    outline: none;
+}
+.form input {
+    font-size: 18px;
+    padding: 0 17px;
+    border: 1px solid #999;
+}
+.form button {
+    font-size: 20px;
+    font-weight: 500;
+    color: #3498db;
+    background: #abf5c4;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-top: 20px;
+}
+.form button:hover {
+    background: #fff;
+}
+.container .qr-code {
+    display: flex;
+    opacity: 0;
+    pointer-events: none;
+    justify-content: center;
+    align-items: center;
+    padding: 33px 0;
+    border: 1px solid #ccc;
+}
+
+.container.active .qr-code {
+    opacity: 1;
+    pointer-events: auto;
+    transition: opacity 0.3s ease;
+}
