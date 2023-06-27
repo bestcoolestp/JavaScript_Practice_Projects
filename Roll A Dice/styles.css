@@ -1,0 +1,77 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: 0;
+    background: url("https://images.unsplash.com/photo-1642235726994-f976d87c1775?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80");
+   
+}
+
+h1 {
+    font-size: 3rem;
+    margin-top: 2rem;
+    color: rgb(239, 6, 251);
+}
+
+.dice {
+    margin: 2rem;
+    font-size: 10rem;
+    color: rgb(247, 5, 1);
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+
+.roll-animation {
+    animation-name: roll; 
+}
+
+@keyframes roll {
+    0% {
+        transform: rotateY(0deg) rotateX(0deg);
+    }
+    50% {
+        transform: rotateY(360deg) rotateX(360deg);
+    }
+    100% {
+        transform: rotateY(720deg) rotateX(720deg);
+    }
+}
+
+.btn {
+    background-color: blueviolet;
+    color: white;
+    padding: 1rem 1.5rem;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 1.5rem;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;  
+}
+.btn:hover {
+    background-color: darkblue;
+    color: white;
+}
+
+ul {
+    list-style: none;
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 0;
+}
+
+li {
+    font-size: 1.5rem;
+    padding: .5rem;
+    margin: .5rem;
+    background-color: rgb(215, 190, 239);
+    border-radius: .5rem;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 600;
+}
+
+li span {
+    font-size: 3rem;
+    color: rgb(235, 8, 8);
+    margin-right: 1rem;
+}
