@@ -12,3 +12,5 @@
 ![Screenshot 2023-06-24 102200](https://github.com/bestcoolestp/JavaScript_Practice_Projects/assets/108534975/b92ead3e-6df5-4201-9e6d-afdb5938f344)
 6. QR Code Generator
 ![Screenshot 2023-06-25 151729](https://github.com/bestcoolestp/JavaScript_Practice_Projects/assets/108534975/085aa58a-30f3-409c-8676-fa3667266953)
+7.Roll A Dice
+![Screenshot 2023-06-27 135915](https://github.com/bestcoolestp/JavaScript_Practice_Projects/assets/108534975/7c7ab277-7ac3-4433-a474-9349bd5fc350)
