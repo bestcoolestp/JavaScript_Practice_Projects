@@ -14,3 +14,5 @@
 ![Screenshot 2023-06-27 135915](https://github.com/bestcoolestp/JavaScript_Practice_Projects/assets/108534975/7c7ab277-7ac3-4433-a474-9349bd5fc350)
 7. Stop Watch
 ![Screenshot 2023-07-01 155104](https://github.com/bestcoolestp/JavaScript_Practice_Projects/assets/108534975/3cd26bd9-54d3-474c-ab7f-83ccd808a73d)
+8. Tip Calculator
+![Screenshot 2023-07-03 152940](https://github.com/bestcoolestp/JavaScript_Practice_Projects/assets/108534975/7484144e-495e-4b8c-a308-2f899ae2572a)
